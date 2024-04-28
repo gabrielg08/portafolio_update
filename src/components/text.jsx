@@ -7,7 +7,7 @@ function Texto(){
                 <p className="p-4">Because if the cover does not impress you what else can?</p>
             </div>
             <div className="flex justify-center mt-28 mb-80">
-                <img className="w-13 h-8" src="/public/Flecha.png" alt="" />
+                <img className="w-13 h-8" src="/Flecha.png" alt="" />
             </div>
             
         </div>
