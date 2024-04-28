@@ -7,20 +7,20 @@ function Designs() {
             <div className="grid grid-cols-1 gap-2 justify-center items-center md:grid-cols-3">
             <a href="https://fabulous-eclair-b74cb1.netlify.app/" target="_blank">
                 <div className="flex justify-center">
-                <img className="h-1/2 w-1/2" src="/public/pokedex.png" alt="" />
+                <img className="h-1/2 w-1/2" src="/pokedex.png" alt="" />
                 </div>
                 </a>
 
 
                 <a href="https://lustrous-rugelach-931c5c.netlify.app/" target="_blank">
                 <div className="flex justify-center">
-                    <img className="h-1/2 w-1/2" src="/public/rick.png" alt="" />    
+                    <img className="h-1/2 w-1/2" src="/rick.png" alt="" />    
                 </div>
                 </a>
                 
                 <a href="https://thriving-pudding-ca1ed1.netlify.app/" target="_blank">
                 <div className="flex justify-center">
-                    <img className="h-1/2 w-1/2" src="/public/usuarios.png" alt="" />
+                    <img className="h-1/2 w-1/2" src="/usuarios.png" alt="" />
                 </div>
                 </a>
             </div>
